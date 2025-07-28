@@ -13,3 +13,5 @@ or (raw sqlite version):
 ```
 app_sqlite_raw.py
 ```
+
+![preview.gif](preview.gif)
